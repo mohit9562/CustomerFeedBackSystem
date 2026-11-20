@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "axios": "^1.21.1",
+    "lucide-react": "^1.77.0",
+    "recharts": "^3.11.0",
+    "tailwindcss": "^4.3.5"
+  }
+}
